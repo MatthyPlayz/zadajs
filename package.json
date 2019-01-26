@@ -1,0 +1,14 @@
+{
+  "name": "zadajs",
+  "version": "1.0.3",
+  "description": "",
+  "main": "Zada.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "matthyplayz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
